@@ -1,0 +1,7 @@
+#Wed May 24 19:14:37 EDT 2017
+base.0=C\:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f57d737d7ceaa90f251a855b655502898f7b84e2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f2d543dd2be55767e5fa38856a660145a3b3e781\\classes.dex
+base.1=C\:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f2d543dd2be55767e5fa38856a660145a3b3e781
+file.0=C\:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f57d737d7ceaa90f251a855b655502898f7b84e2\\classes.dex

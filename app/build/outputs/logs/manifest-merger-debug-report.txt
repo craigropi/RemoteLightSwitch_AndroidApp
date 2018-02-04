@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dbeec3ebbdd95b1845fc41f5a01f87bf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:6:22-71
+application
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dbeec3ebbdd95b1845fc41f5a01f87bf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dbeec3ebbdd95b1845fc41f5a01f87bf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.craigropi.remotelightswitch.MainActivity
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dbeec3ebbdd95b1845fc41f5a01f87bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\dbeec3ebbdd95b1845fc41f5a01f87bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9e572274591e9bce1ad52e6c3fa55f21\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2303a78ecb2e09bc4007ac56e97059d9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d696e398758088dcd982d330a7207eb9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\effe374e3f63b90436dd4b75f629c507\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0ed719d50baef8eac38d9d3d1831108f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d030c8f8f021c118637b77f4ade6f268\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\049b57a530c0e979f48527a16e5ec021\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7220a1a65cfc58ccd045f2d448288cfb\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\craig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2bfa717c2b7fbbb0febe691fca2b102a\AndroidManifest.xml:26:9-47

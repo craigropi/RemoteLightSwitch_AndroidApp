@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\craig\\.android\\build-cache\\26880f49f2a88ebe120a020b813033824427bc3e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\craig\\.android\\build-cache\\26880f49f2a88ebe120a020b813033824427bc3e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\craig\\.android\\build-cache\\26880f49f2a88ebe120a020b813033824427bc3e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\craig\\Documents\\Git\\Android\\RemoteLightSwitch\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\craig\\.android\\build-cache\\26880f49f2a88ebe120a020b813033824427bc3e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

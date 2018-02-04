@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remote Lightswitch</string>
+    <string name="Dark">Dark</string>
+    <string name="Light">Light</string>
+    <string name="ConnectToLightswitch">Connect To Lightswitch</string>
+    <string name="RemoteLightswitch">Remote Lightswitch</string>
+
+</resources>

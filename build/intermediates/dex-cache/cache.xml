@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cc97cc4dfb77b2bba058c0a1c876ed7784e4bb3">
+        <dex dex="C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f57d737d7ceaa90f251a855b655502898f7b84e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\craig\Documents\Git\Android\RemoteLightSwitch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f2d543dd2be55767e5fa38856a660145a3b3e781\classes.dex" />
+    </item>
+
+</items>
